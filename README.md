@@ -1,5 +1,5 @@
 # Predisction-of-Risk-During-Child-Birth
-This project is made for predict weather a child birth is going to be safe or not during delivery. It will capture mother's face expression and analyse it and predict the result accordingly.
+This project is made for predict weather a child birth is going to be safe or not during delivery. It will capture mother's face expression and analyse it and predict the result accordingly. This model is purely based on Deep Learning and uses Convolution Nural Network for making the network model.
 
 ## How to make dataset
 To make dataset just run ***Making Dataset/makingdataset_okey.ipynb*** and ***Making Dataset/makingdataset_notokey.ipynb*** 2 files.
